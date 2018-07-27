@@ -26,9 +26,4 @@ git checkout <branch_local>
 ````
 git pull upstream pull/<id>/head
 ````
-* Reverter o último commit
-````
-git revert HEAD
-git push origin minha_branch
-````
 
